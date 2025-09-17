@@ -8,3 +8,6 @@ Precision
 -Description
 -Example
 
+Recall
+-Description
+-Example
